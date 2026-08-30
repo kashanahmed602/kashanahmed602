@@ -2,17 +2,43 @@
 
 ### Full Stack Developer | MERN Stack Developer
 
-I am a passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into functional digital products and working across both frontend and backend development.
+I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 year of professional experience** building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into functional digital products and working across both frontend and backend development.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 💻 Full Stack Developer specializing in the MERN Stack
-* 🌱 Continuously learning and improving my development skills
-* 🚀 Interested in building real-world, scalable web applications
+* 🏢 1 year of professional experience as a MERN Stack Developer
+* 🚀 Experienced in building real-world, scalable web applications
+* ⚛️ Strong focus on React.js and modern frontend development
+* 🔧 Experienced in Node.js, Express.js, REST APIs, and backend development
+* 🗄️ Experienced with MongoDB, Mongoose, and Redis
+* ⚡ Interested in real-time applications using Socket.io
 * 🎨 Passionate about modern UI, smooth animations, and great user experiences
-* ⚡ Interested in real-time web applications and modern technologies
+* 🌱 Continuously learning and improving my development skills
+
+---
+
+## 💼 Professional Experience
+
+### MERN Stack Developer
+
+**Devtronics** | Karachi, Pakistan
+**2025 – 2026 | 1 Year**
+
+* 💻 Developed and maintained full-stack web applications using the **MERN Stack**.
+* ⚛️ Built responsive and interactive frontend interfaces using **React.js**.
+* 🔧 Developed scalable **RESTful APIs** using Node.js and Express.js.
+* 🗄️ Worked with **MongoDB and Mongoose** for database design and data management.
+* 🔐 Implemented authentication, authorization, and secure backend functionality.
+* ⚡ Integrated **Socket.io** to develop real-time application features and live updates.
+* 🚀 Worked on backend architecture, API integration, and application functionality.
+* 🎨 Improved UI/UX by creating responsive, modern, and user-friendly interfaces.
+* 🔄 Integrated frontend applications with backend APIs and third-party services.
+* 🛠️ Used Git and GitHub for version control and collaborative development.
+* 🧪 Tested and debugged APIs and backend functionality using Postman.
+* 📱 Worked with modern development practices and technologies to build reliable applications.
 
 ---
 
@@ -24,76 +50,54 @@ I am a passionate Full Stack Developer focused on building modern, scalable, and
 * 🗄️ Design and work with MongoDB databases
 * 🔐 Implement authentication and secure backend functionality
 * ⚡ Build real-time features using Socket.io
+* 🚀 Develop scalable backend architectures
 * 🎨 Create clean interfaces with a focus on UI/UX and user experience
+* 📱 Explore cross-platform mobile development with React Native
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Tailwind CSS
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* Socket.io
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-### Database
+### 🗄️ Database
 
-* MongoDB
-* Mongoose
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
-### Tools & Technologies
+### 📱 Mobile Development
 
-* Git
-* GitHub
-* Postman
-* VS Code
-* Vercel
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
----
+### 👨‍💻 Programming Languages
 
-## 🚀 Featured Projects
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 🛒 Marketplace & Live Auction Platform
+### 🛠️ Tools
 
-A full-stack MERN application that allows users to explore products, manage listings, participate in live auctions, and receive real-time updates.
-
-**Key Features:**
-
-* User authentication and authorization
-* Product management
-* Live auction functionality
-* Real-time updates using Socket.io
-* Bidding system
-* Responsive user interface
-
-🔗 **Live Demo:** Add your project link here
-📂 **Repository:** Add your GitHub repository link here
-
----
-
-### 💼 Employee Management System
-
-A full-stack web application for managing employees and organizational data.
-
-**Key Features:**
-
-* Employee management
-* User authentication
-* RESTful APIs
-* MongoDB database integration
-* Modern frontend interface
-
-🔗 **Live Demo:** Add your project link here
-📂 **Repository:** Add your GitHub repository link here
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
@@ -102,7 +106,27 @@ A full-stack web application for managing employees and organizational data.
 * Advanced Full Stack Development
 * Scalable Backend Architecture
 * Real-Time Applications
+* Advanced React.js
+* React Native
 * Modern Web Technologies
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashanahmed602&show_icons=true&theme=tokyonight&hide_border=true" alt="Kashan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashanahmed602&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashanahmed602&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -110,12 +134,12 @@ A full-stack web application for managing employees and organizational data.
 
 * 🐙 GitHub: **https://github.com/kashanahmed602**
 * 💼 LinkedIn: **https://www.linkedin.com/in/kashan-ahmed-035870309/**
-* 📧 Email: **kashanahmed3105@gmail.com**
+* 📧 Email: **[kashanahmed3105@gmail.com](mailto:kashanahmed3105@gmail.com)**
 
 ---
 
 ### ⚡ Fun Fact
 
-I enjoy turning ideas into modern and functional web applications 🚀
+I enjoy turning ideas into modern, scalable, and functional web applications 🚀
 
 ⭐ Feel free to explore my repositories and check out my projects!
