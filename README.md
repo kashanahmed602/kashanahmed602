@@ -13,7 +13,7 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 * 🚀 Experienced in building real-world, scalable web applications
 * ⚛️ Strong focus on React.js and modern frontend development
 * 🔧 Experienced in Node.js, Express.js, REST APIs, and backend development
-* 🗄️ Experienced with MongoDB, Mongoose, and Redis
+* 🗄️ Experienced with MongoDB, Mongoose, PostgreSQL, Supabase, and Redis
 * ⚡ Interested in real-time applications using Socket.io
 * 🎨 Passionate about modern UI, smooth animations, and great user experiences
 * 🌱 Continuously learning and improving my development skills
@@ -47,7 +47,8 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 * 💻 Build modern, responsive, and user-friendly web applications
 * ⚛️ Develop interactive frontend applications using React.js
 * 🔧 Build RESTful APIs using Node.js and Express.js
-* 🗄️ Design and work with MongoDB databases
+* 🗄️ Design and work with MongoDB and PostgreSQL databases
+* ☁️ Work with Supabase for PostgreSQL database management and backend services
 * 🔐 Implement authentication and secure backend functionality
 * ⚡ Build real-time features using Socket.io
 * 🚀 Develop scalable backend architectures
@@ -65,7 +66,7 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B2?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ### ⚙️ Backend
@@ -76,10 +77,12 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Database & Backend Services
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ### 📱 Mobile Development
 
@@ -89,6 +92,7 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-339933?style=for-the-badge\&logo=c\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 🛠️ Tools
@@ -109,8 +113,6 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 * Advanced React.js
 * React Native
 * Modern Web Technologies
-
----
 
 ---
 
