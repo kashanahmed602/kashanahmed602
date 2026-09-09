@@ -37,7 +37,6 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 * 🔄 Integrated frontend applications with backend APIs and third-party services.
 * 🛠️ Used Git and GitHub for version control and collaborative development.
 * 🧪 Tested and debugged APIs and backend functionality using Postman.
-* 📱 Worked with modern development practices and technologies to build reliable applications.
 
 ---
 
