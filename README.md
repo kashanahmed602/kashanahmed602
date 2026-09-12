@@ -34,7 +34,6 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 * 🔐 Implemented authentication, authorization, and secure backend functionality.
 * ⚡ Integrated **Socket.io** to develop real-time application features and live updates.
 * 🎨 Improved UI/UX by creating responsive, modern, and user-friendly interfaces.
-* 🔄 Integrated frontend applications with backend APIs and third-party services.
 
 ---
 
