@@ -31,7 +31,6 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 * ⚛️ Built responsive and interactive frontend interfaces using **React.js**.
 * 🔧 Developed scalable **RESTful APIs** using Node.js and Express.js.
 * 🗄️ Worked with **MongoDB and Mongoose** for database design and data management.
-* 🔐 Implemented authentication, authorization, and secure backend functionality.
 
 ---
 
