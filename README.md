@@ -28,8 +28,6 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 **2025 – 2026 | 1 Year**
 
 * 💻 Developed and maintained full-stack web applications using the **MERN Stack**.
-* ⚛️ Built responsive and interactive frontend interfaces using **React.js**.
-
 ---
 
 ## 🚀 What I Do
