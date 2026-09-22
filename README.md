@@ -20,16 +20,6 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 
 ---
 
-## 💼 Professional Experience
-
-### MERN Stack Developer
-
-**Devtronics** | Karachi, Pakistan
-**2025 – 2026 | 1 Year**
-
-* 💻 Developed and maintained full-stack web applications using the **MERN Stack**.
----
-
 ## 🚀 What I Do
 
 * 💻 Build modern, responsive, and user-friendly web applications
