@@ -35,6 +35,31 @@ I am a passionate Full Stack Developer specializing in the MERN Stack, with **1 
 
 ---
 
+## 💼 Professional Experience
+
+### Frontend Developer — Devtronics
+
+**Karachi, Pakistan · 2025–2026**
+
+I have **1 year of professional experience as a Frontend Developer**, working on real-world web applications and building modern, responsive, and user-friendly interfaces using React.js and modern frontend technologies.
+
+**Key Responsibilities & Contributions:**
+
+* ⚛️ Developed modern and responsive web applications using **React.js and JavaScript**
+* 🎨 Built clean, reusable, and maintainable UI components
+* 📱 Created responsive interfaces optimized for desktop, tablet, and mobile devices
+* 🔗 Integrated **REST APIs** and connected frontend applications with backend services
+* 🧩 Worked with **React Router, Context API, Redux, and Axios** for application state and data management
+* 🎨 Used **Tailwind CSS and Bootstrap** to build responsive and modern user interfaces
+* ⚡ Implemented interactive and dynamic features to improve user experience
+* 🔐 Worked with authentication flows, protected routes, forms, and user-related functionality
+* 🔄 Collaborated with backend developers to integrate APIs and ensure smooth frontend-backend communication
+* 🛠️ Used **Git and GitHub** for version control and team collaboration
+* 🚀 Contributed to multiple real-world projects and production-ready web applications
+* 🐛 Debugged, optimized, and maintained existing frontend applications
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
